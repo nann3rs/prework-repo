@@ -1,12 +1,13 @@
 ## CodePath Mobile App Design Pre-Work
 
 ### App Description
-Completed user stories for CodePath pre-work. 
+Completed user stories for CodePath pre-work.
 
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="Images/pre-work.gif" width=200><br>
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
